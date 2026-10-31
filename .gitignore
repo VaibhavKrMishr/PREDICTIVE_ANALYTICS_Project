@@ -1,2 +1,9 @@
 .venv/
 __pycache__/
+IEEE paper format for CA2(2).docx
+.~lock.*
+
+# Files to build the report
+build_ieee_report.py
+generate_report_assets.py
+report_figs/
