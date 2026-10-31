@@ -5469,7 +5469,7 @@ Haryana,Sirsa,Sirsa APMC,Onion,Other,FAQ,4000.0,4200.0,4100.0,8.31898612539206,0
 Haryana,Sirsa,Sirsa APMC,Brinjal,Other,FAQ,1500.0,1500.0,1500.0,7.313886831633462,0.0
 Haryana,Kaithal,Rajound APMC,Paddy(Common),Other,FAQ,2461.0,2461.0,2461.0,7.808729306744399,0.0
 Punjab,Jalandhar,Phillaur APMC,Paddy(Common),Paddy,FAQ,2461.0,2461.0,2461.0,7.808729306744399,0.0
-Punjab,Gurdaspur,Dera Baba Nanak APMC,Pea Pod/Pea Cod/हरी मटर,Other,Grade A,5233.0,5233.0,5233.0,8.562931083090092,0.0
+Punjab,Gurdaspur,Dera Baba Nanak APMC,Pea Pod/Pea Cod,Other,Grade A,5233.0,5233.0,5233.0,8.562931083090092,0.0
 Punjab,Hoshiarpur,GarhShankar (Kotfatuhi) APMC,Banana,Other,Medium,3200.0,3200.0,3200.0,8.071218539969863,0.0
 Punjab,Jalandhar,Noor Mehal APMC,Methi(Leaves),Other,Local,1500.0,1500.0,1500.0,7.313886831633462,0.0
 Punjab,Jalandhar,Noor Mehal APMC,Raddish,Other,Local,1600.0,1600.0,1600.0,7.3783837129967145,0.0
@@ -6403,7 +6403,7 @@ Madhya Pradesh,Sagar,Rahatgarh APMC,Lentil(Masur)(Whole),Local,Non-FAQ,5000.0,58
 Madhya Pradesh,Sagar,Rahatgarh APMC,Lak(Teora),Tiwada,Non-FAQ,3400.0,4000.0,3405.0,8.133293861222633,0.1762114537444934
 Punjab,Sangrur,Lehra Gaga APMC,Orange,Other,Grade A,6000.0,6000.0,6000.0,8.699681400989514,0.0
 Punjab,Sangrur,Lehra Gaga APMC,Banana,Other,Grade A,3300.0,3300.0,3300.0,8.101980731853192,0.0
-Punjab,Sangrur,Lehra Gaga APMC,Pea Pod/Pea Cod/हरी मटर,Other,Grade A,9000.0,9000.0,9000.0,9.105090961257085,0.0
+Punjab,Sangrur,Lehra Gaga APMC,Pea Pod/Pea Cod,Other,Grade A,9000.0,9000.0,9000.0,9.105090961257085,0.0
 Punjab,Sangrur,Lehra Gaga APMC,Onion,Other,Grade A,4800.0,4800.0,4800.0,8.476579508530941,0.0
 Madhya Pradesh,Niwadi,Niwadi APMC,Wheat,Mill Quality,Non-FAQ,2751.0,2808.0,2768.0,7.926241523170962,0.020592485549132948
 Madhya Pradesh,Niwadi,Niwadi APMC,Groundnut,Big (With Shell),Non-FAQ,5335.0,6767.0,6505.0,8.780480107033297,0.22013835511145272
@@ -6434,7 +6434,7 @@ Gujarat,Dahod,Dahod(Veg. Market) APMC,Cluster Beans,Cluster Beans,Local,2500.0,4
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Lemon,Lemon,Local,9000.0,11000.0,10000.0,9.210440366976517,0.2
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Onion,Onion,Local,2500.0,4500.0,3250.0,8.086717920303906,0.6153846153846154
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Pointed Gourd(Parval),Pointed gourd (Parval),Local,5000.0,5000.0,5000.0,8.517393171418904,0.0
-Gujarat,Dahod,Dahod(Veg. Market) APMC,Pea Pod/Pea Cod/हरी मटर,Peas cod,Local,12000.0,15000.0,14000.0,9.546884034617925,0.21428571428571427
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Pea Pod/Pea Cod,Peas cod,Local,12000.0,15000.0,14000.0,9.546884034617925,0.21428571428571427
 Gujarat,Sabarkantha,Himatnagar(Veg.Market Himatnagar) APMC,Guar,Gwar,Local,2500.0,3000.0,2900.0,7.972810784121404,0.1724137931034483
 Gujarat,Sabarkantha,Himatnagar(Veg.Market Himatnagar) APMC,Methi(Leaves),Methi,Local,3500.0,4500.0,4500.0,8.412054873292933,0.2222222222222222
 Gujarat,Sabarkantha,Himatnagar(Veg.Market Himatnagar) APMC,Ridgeguard(Tori),Ridgeguard(Tori),Local,2000.0,2500.0,2400.0,7.783640596221253,0.20833333333333334
@@ -8074,7 +8074,7 @@ Haryana,Faridabad,Ballabhgarh APMC,Onion,Onion,FAQ,2500.0,3200.0,3000.0,8.006700
 Haryana,Faridabad,Ballabhgarh APMC,Spinach,Other,FAQ,1500.0,2000.0,1800.0,7.496097345175956,0.2777777777777778
 Haryana,Faridabad,Ballabhgarh APMC,Capsicum,Capsicum,FAQ,4000.0,5000.0,4500.0,8.412054873292933,0.2222222222222222
 Haryana,Sonipat,Gohana APMC,Cauliflower,Other,Medium,800.0,1200.0,1000.0,6.90875477931522,0.4
-Haryana,Sonipat,Gohana APMC,Pea Pod/Pea Cod/हरी मटर,Other,Medium,8000.0,12000.0,10000.0,9.210440366976517,0.4
+Haryana,Sonipat,Gohana APMC,Pea Pod/Pea Cod,Other,Medium,8000.0,12000.0,10000.0,9.210440366976517,0.4
 Haryana,Sonipat,Gohana APMC,Sweet Potato,Other,Medium,2500.0,3000.0,2800.0,7.937731775260109,0.17857142857142858
 Haryana,Sonipat,Gohana APMC,Orange,Orange,Medium,6000.0,8000.0,7000.0,8.853808274977197,0.2857142857142857
 Odisha,Jagatsinghpur,Jagatsinghpur APMC,Potato,Potato,FAQ,1350.0,1450.0,1400.0,7.244941546337007,0.07142857142857142
@@ -8159,7 +8159,7 @@ Kerala,Idukki,Kattappana Market,Cabbage,Other,Medium,3000.0,3200.0,3200.0,8.0712
 Kerala,Idukki,Kattappana Market,Carrot,Other,Medium,5500.0,5800.0,5800.0,8.665785595466064,0.05172413793103448
 Kerala,Idukki,Kattappana Market,Banana,Palayamthodan,Medium,2300.0,2500.0,2500.0,7.824445930877619,0.08
 Gujarat,Sabarkantha,Himatnagar APMC,Black Gram(Urd Beans)(Whole),Local,Local,7000.0,8000.0,7700.0,8.94910546953925,0.12987012987012986
-Punjab,Fazilka,Fazilka APMC,Pea Pod/Pea Cod/हरी मटर,Other,FAQ,9000.0,9000.0,9000.0,9.105090961257085,0.0
+Punjab,Fazilka,Fazilka APMC,Pea Pod/Pea Cod,Other,FAQ,9000.0,9000.0,9000.0,9.105090961257085,0.0
 Punjab,Fazilka,Fazilka APMC,Cauliflower,Cauliflower,FAQ,2500.0,2500.0,2500.0,7.824445930877619,0.0
 Punjab,Fazilka,Fazilka APMC,Tomato,Tomato,FAQ,1200.0,1200.0,1200.0,7.0909098220799835,0.0
 Punjab,Fazilka,Fazilka APMC,Pumpkin,Pumpkin,FAQ,1500.0,1500.0,1500.0,7.313886831633462,0.0
@@ -8290,7 +8290,7 @@ Tamil Nadu,Kallakurichi,Ulundurpet RM,Thondekai,Thondekai,Local,5000.0,5000.0,50
 Andhra Pradesh,Bapatla,Parchur APMC,Bengal Gram(Gram)(Whole),Bengal Gram (Split),FAQ,7000.0,7500.0,7500.0,8.922791623969637,0.06666666666666667
 Kerala,Ernakulam,Ernakulam Market,Banana,Palayamthodan,Medium,3200.0,3800.0,3500.0,8.160803920954665,0.17142857142857143
 Andhra Pradesh,East Godavari,Anaparthy APMC,Paddy(Common),Paddy,FAQ,2441.0,2600.0,2441.0,7.80057265467065,0.0651372388365424
-Punjab,Gurdaspur,Batala APMC,Pea Pod/Pea Cod/हरी मटर,Other,Grade C,6000.0,6800.0,6200.0,8.732465848349879,0.12903225806451613
+Punjab,Gurdaspur,Batala APMC,Pea Pod/Pea Cod,Other,Grade C,6000.0,6800.0,6200.0,8.732465848349879,0.12903225806451613
 Madhya Pradesh,Indore,Sanwer(F&V) APMC,Bhindi(Ladies Finger),Bhindi,FAQ,1800.0,3000.0,2500.0,7.824445930877619,0.48
 Madhya Pradesh,Indore,Sanwer(F&V) APMC,Cauliflower,Cauliflower,FAQ,500.0,800.0,600.0,6.398594934535208,0.5
 Madhya Pradesh,Indore,Sanwer(F&V) APMC,Green Chilli,Green Chilly,FAQ,3000.0,4500.0,3500.0,8.160803920954665,0.42857142857142855
@@ -10180,7 +10180,7 @@ Madhya Pradesh,Dewas,Dewas(F&V) APMC,Brinjal,Other,FAQ,400.0,900.0,500.0,6.21660
 Madhya Pradesh,Sheopur,Sheopurkalan (F&V) APMC,Brinjal,Brinjal,Grade C,1000.0,1500.0,1300.0,7.170888478512505,0.38461538461538464
 Madhya Pradesh,Sheopur,Sheopurkalan (F&V) APMC,Banana,Other,Grade C,2500.0,2500.0,2500.0,7.824445930877619,0.0
 Madhya Pradesh,Dhar,Dhar(F&V) APMC,Papaya,Other,Local,2500.0,3600.0,3000.0,8.006700845440367,0.36666666666666664
-Madhya Pradesh,Dhar,Dhar(F&V) APMC,Pea Pod/Pea Cod/हरी मटर,Local,Local,3000.0,6000.0,5000.0,8.517393171418904,0.6
+Madhya Pradesh,Dhar,Dhar(F&V) APMC,Pea Pod/Pea Cod,Local,Local,3000.0,6000.0,5000.0,8.517393171418904,0.6
 Madhya Pradesh,Ujjain,Ujjain(F&V) APMC,Coriander(Leaves),Coriander,Medium,730.0,2140.0,1230.0,7.115582126184454,1.146341463414634
 Madhya Pradesh,Ujjain,Ujjain(F&V) APMC,Apple,Apple,Medium,2500.0,8750.0,4305.0,8.367764677924308,1.4518002322880372
 Madhya Pradesh,Ujjain,Ujjain(F&V) APMC,Cauliflower,Cauliflower,Medium,480.0,1240.0,710.0,6.566672429803241,1.0704225352112675
@@ -10214,7 +10214,7 @@ Himachal Pradesh,Kangra,PMY Kangra,Guava,Guava,Medium,8500.0,10000.0,9000.0,9.10
 Himachal Pradesh,Kangra,PMY Kangra,Onion,Onion,FAQ,5000.0,6200.0,5500.0,8.612685172875459,0.21818181818181817
 Himachal Pradesh,Kangra,PMY Kangra,Banana,Other,Medium,4500.0,5200.0,5000.0,8.517393171418904,0.14
 Himachal Pradesh,Kangra,PMY Kangra,Chikoos(Sapota),Other,Medium,9500.0,10000.0,9700.0,9.179984251961283,0.05154639175257732
-Himachal Pradesh,Kangra,PMY Kangra,Pea Pod/Pea Cod/हरी मटर,Other,FAQ,10000.0,13000.0,12000.0,9.392745258631441,0.25
+Himachal Pradesh,Kangra,PMY Kangra,Pea Pod/Pea Cod,Other,FAQ,10000.0,13000.0,12000.0,9.392745258631441,0.25
 Himachal Pradesh,Kangra,PMY Kangra,Cabbage,Cabbage,FAQ,1500.0,2000.0,1800.0,7.496097345175956,0.2777777777777778
 Himachal Pradesh,Kangra,PMY Kangra,Mushroom,Mushroom,FAQ,17000.0,18000.0,17500.0,9.770013301136158,0.05714285714285714
 Gujarat,Surendranagar,Chotila APMC,Wheat,Local,FAQ,2750.0,3250.0,3000.0,8.006700845440367,0.16666666666666666
@@ -10369,7 +10369,7 @@ Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Baby Corn,Baby Corn,Grade A
 Rajasthan,Udaipur,Udaipur (F&V) APMC,Ginger(Green),Other,Medium,3000.0,6000.0,4500.0,8.412054873292933,0.6666666666666666
 Rajasthan,Udaipur,Udaipur (F&V) APMC,Pineapple,Other,Medium,2500.0,3500.0,3000.0,8.006700845440367,0.3333333333333333
 Rajasthan,Udaipur,Udaipur (F&V) APMC,Mango(Raw-Ripe),Other,Medium,10000.0,10000.0,10000.0,9.210440366976517,0.0
-Rajasthan,Udaipur,Udaipur (F&V) APMC,Pea Pod/Pea Cod/हरी मटर,Other,Medium,6000.0,10000.0,8000.0,8.987321812850125,0.5
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Pea Pod/Pea Cod,Other,Medium,6000.0,10000.0,8000.0,8.987321812850125,0.5
 Rajasthan,Jhalawar,Choumahla APMC,Wheat,Other,Non-FAQ,2800.0,3060.0,2930.0,7.983098940710892,0.08873720136518772
 Telangana,Hyderabad,RYTHU BAZAR MEHDIPATNAM,Bitter Gourd,Bitter Gourd,Grade A,3800.0,3800.0,3800.0,8.24301946898925,0.0
 Telangana,Hyderabad,RYTHU BAZAR MEHDIPATNAM,Beetroot,Beetroot,Grade A,2800.0,2800.0,2800.0,7.937731775260109,0.0
@@ -10594,7 +10594,7 @@ Assam,Tinsukia,Tinsukia Market,Bottle Gourd,Other,FAQ,1500.0,3000.0,2000.0,7.601
 Bihar,Vaishali,Hajipur APMC,Potato,Local,Local,1090.0,1090.0,1090.0,6.994849985833071,0.0
 Bihar,Vaishali,Hajipur APMC,Onion,Other,FAQ,4620.0,4620.0,4620.0,8.438366410870266,0.0
 Chhattisgarh,Raipur,Raipur APMC,Bengal Gram(Gram)(Whole),Average (Whole),Non-FAQ,5800.0,6200.0,6072.0,8.711607995897575,0.06587615283267458
-Chhattisgarh,Raipur,Raipur APMC,Pea Pod/Pea Cod/हरी मटर,Local,Non-FAQ,2882.0,2882.0,2882.0,7.9665866976384025,0.0
+Chhattisgarh,Raipur,Raipur APMC,Pea Pod/Pea Cod,Local,Non-FAQ,2882.0,2882.0,2882.0,7.9665866976384025,0.0
 Chhattisgarh,Raipur,Raipur APMC,Mustard,Mustard,Non-FAQ,7000.0,7000.0,7000.0,8.853808274977197,0.0
 Chhattisgarh,Raipur,Raipur APMC,"Sesamum(Sesame,Gingelly,Til)",Black,Non-FAQ,9500.0,9800.0,9681.0,9.178023770499639,0.030988534242330338
 Chhattisgarh,Raipur,Raipur APMC,Turmeric,Dry,Non-FAQ,11429.0,11429.0,11429.0,9.343996756788856,0.0
@@ -10774,7 +10774,7 @@ Odisha,Nuapada,Khariar Road APMC,Cabbage,Cabbage,Grade A,6000.0,6000.0,6000.0,8.
 Odisha,Nuapada,Khariar Road APMC,Cucumbar(Kheera),Other,Grade A,3000.0,3000.0,3000.0,8.006700845440367,0.0
 Punjab,Tarntaran,Patti APMC,Carrot,Other,Local,24.2,24.2,24.2,3.2268439945173775,0.0
 Punjab,Tarntaran,Patti APMC,Paddy(Common),Other,Grade Range-1,2461.0,2461.0,2461.0,7.808729306744399,0.0
-Punjab,Tarntaran,Patti APMC,Pea Pod/Pea Cod/हरी मटर,Other,Local,1200.0,1200.0,1200.0,7.0909098220799835,0.0
+Punjab,Tarntaran,Patti APMC,Pea Pod/Pea Cod,Other,Local,1200.0,1200.0,1200.0,7.0909098220799835,0.0
 Odisha,Sambalpur,Sambalpur APMC,Bhindi(Ladies Finger),Other,Local,2100.0,2200.0,2150.0,7.67368812926773,0.046511627906976744
 Odisha,Sambalpur,Sambalpur APMC,Pumpkin,Other,Local,680.0,720.0,700.0,6.55250788703459,0.05714285714285714
 Punjab,Mohali,Lalru APMC,Sweet Potato,Hosur Green,Local,3000.0,3000.0,3000.0,8.006700845440367,0.0
@@ -12912,7 +12912,7 @@ Jammu and Kashmir,Rajouri,Rajouri (Phaliana) (F&V),Pineapple,Pine Apple,Grade B,
 Jammu and Kashmir,Rajouri,Rajouri (Phaliana) (F&V),Cabbage,Cabbage,Grade B,3000.0,3000.0,3000.0,8.006700845440367,0.0
 Jammu and Kashmir,Rajouri,Rajouri (Phaliana) (F&V),Potato,Local,Grade B,1800.0,1800.0,1800.0,7.496097345175956,0.0
 Himachal Pradesh,Solan,PMY Kather Solan,Papaya,Other,Medium,3000.0,4200.0,3500.0,8.160803920954665,0.34285714285714286
-Himachal Pradesh,Solan,PMY Kather Solan,Pea Pod/Pea Cod/हरी मटर,Other,Local,4000.0,11000.0,9000.0,9.105090961257085,0.7777777777777778
+Himachal Pradesh,Solan,PMY Kather Solan,Pea Pod/Pea Cod,Other,Local,4000.0,11000.0,9000.0,9.105090961257085,0.7777777777777778
 Himachal Pradesh,Solan,PMY Kather Solan,Garlic,Other,Local,6000.0,25000.0,18000.0,9.798182590890704,1.0555555555555556
 Haryana,Rohtak,Rohtak APMC,Paddy(Basmati),1121,Non-FAQ,4201.0,5481.0,4851.0,8.48714627006394,0.26386312100597814
 Haryana,Rohtak,Rohtak APMC,Guava,Other,Medium,2000.0,4000.0,3000.0,8.006700845440367,0.6666666666666666
